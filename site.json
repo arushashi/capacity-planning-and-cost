@@ -1,0 +1,69 @@
+{
+    "repo":  "capacity-planning-and-cost",
+    "title":  "Capacity Planning and Cost",
+    "tagline":  "A capacity calculator, a planning method and a cloud cost checklist.",
+    "groups":  [
+                   {
+                       "name":  "Overview",
+                       "items":  [
+                                     {
+                                         "path":  "README.md",
+                                         "title":  "Overview"
+                                     }
+                                 ]
+                   },
+                   {
+                       "name":  "Docs",
+                       "items":  [
+                                     {
+                                         "path":  "docs/capacity-planning.md",
+                                         "title":  "Capacity planning method"
+                                     },
+                                     {
+                                         "path":  "docs/cloud-cost-checklist.md",
+                                         "title":  "Cloud cost checklist"
+                                     }
+                                 ]
+                   },
+                   {
+                       "name":  "Source: tests",
+                       "items":  [
+                                     {
+                                         "path":  "tests/test_capacity.py",
+                                         "title":  "tests/test_capacity.py"
+                                     }
+                                 ]
+                   },
+                   {
+                       "name":  "Source: tools",
+                       "items":  [
+                                     {
+                                         "path":  "tools/capacity.py",
+                                         "title":  "tools/capacity.py"
+                                     }
+                                 ]
+                   }
+               ],
+    "pages":  [
+                  {
+                      "path":  "README.md",
+                      "title":  "Overview"
+                  },
+                  {
+                      "path":  "docs/capacity-planning.md",
+                      "title":  "Capacity planning method"
+                  },
+                  {
+                      "path":  "docs/cloud-cost-checklist.md",
+                      "title":  "Cloud cost checklist"
+                  },
+                  {
+                      "path":  "tests/test_capacity.py",
+                      "title":  "tests/test_capacity.py"
+                  },
+                  {
+                      "path":  "tools/capacity.py",
+                      "title":  "tools/capacity.py"
+                  }
+              ]
+}
